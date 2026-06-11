@@ -1,4 +1,4 @@
-package Chapter06;
+package Chapter07;
 
 public class DrawShape {
     public static void main(String[] args) {
